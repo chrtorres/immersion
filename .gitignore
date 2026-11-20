@@ -40,5 +40,9 @@ next-env.d.ts
 # Vite build
 dist
 
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
 convex-local*
 convex_local*
